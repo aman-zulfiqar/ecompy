@@ -40,7 +40,7 @@ Mako Templates
 bash
 Copy
 Edit
-git clone https://github.com/your-username/flask-ecommerce-api.git
+git clone https://github.com/aman-zulfiqar/flask-ecommerce-api.git
 cd flask-ecommerce-api
 2. Create & Activate a Virtual Environment
 bash
